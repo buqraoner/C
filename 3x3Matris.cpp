@@ -26,7 +26,7 @@
 	int sayi2;
 	sayi1 = dizi[0][0] + dizi[2][2] +dizi [1][1];
 	sayi2 = dizi[0][2] + dizi[2][0] + dizi[1][1];
-	printf(" dizinin köþegenlerinin toplami: %d ve %d ",sayi1,sayi2);
+	printf(" dizinin kÃ¶segenlerinin toplami: %d ve %d ",sayi1,sayi2);
 	
 	
 	return 0;
